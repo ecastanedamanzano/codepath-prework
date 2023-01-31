@@ -2,11 +2,7 @@
 
 ### App that helps you introduce yourself in the simplest way!
 
-### App Walk-though
-
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+### <img src="https://media.giphy.com/media/Bcspj3dvPXcZz6ejqZ/giphy.gif" width=200><br>
 
 ### Required Features
 
@@ -22,5 +18,3 @@
 - [ ] 1. User can tap a button to change the color of the background view
 - [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
 - [ ] 4. Any stylistic changes that are not default options (Comment this here)
-
-<img src="https://media.giphy.com/media/Bcspj3dvPXcZz6ejqZ/giphy.gif" alt="Alt text" title="Optional title">
